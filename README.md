@@ -1,6 +1,6 @@
 # Vogel
 
-[![N|Solid](https://github.com/ChamsBouzaiene/Vogel/tree/main/assets/icon.png)](https://github.com/ChamsBouzaiene/Vogel)
+[![N|Solid](https://github.com/ChamsBouzaiene/Vogel/blob/main/assets/icon.png?raw=true)](https://github.com/ChamsBouzaiene/Vogel)
 
 # Features!
 
