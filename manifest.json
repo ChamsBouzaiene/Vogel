@@ -1,0 +1,23 @@
+{
+    "name": "Vogel",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "Vogel helps you learn Deutsch  it uses a german dictionary api to get the highlited Deutsch  word article and plural form",
+    "browser_action": {
+      "default_icon": {                   
+        "16": "images/icon16.png",          
+        "24": "images/icon24.png",          
+        "32": "images/icon32.png",          
+        "128": "images/icon128.png" 
+
+      },
+      "default_title": "Vogel" 
+
+    },
+    "permissions": [
+      "contextMenus"
+     ],
+    "background": { 
+      "scripts": ["script.js"]
+    }
+}
